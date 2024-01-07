@@ -4,6 +4,8 @@ This project is one of the many job simulations available on Forage that allows 
 ## Table of Contents  
 - [Overview](#Overview)
 - [Structure](#Structure)
+- [Installation](#Installation)
+- [Acknowledgements](#Acknowledgements)
 
 ## Overview
 The Forage: British Airways is a data science job simulation that involves web scraping, analyzing data, and creating a predictive model to answer realistic business questions such as "What topics are discussed in reviews for the service?" and "What are the factors considered in a customer's purchase?" for British Airways.  
@@ -17,10 +19,11 @@ This simulation introduced me to web scraping and handling natural language task
 
 ## Installation
 1. Clone the repository: ```git clone https://github.com/LLinNYU/Forage_BA.git```
-2. Navigate to the dierctory: 'cd Forage_BA'
+2. Navigate to the dierctory: ```cd Forage_BA```
 3. Install dependencies:
-   pip install wordcloud
-
+   ```pip install wordcloud nltk```
+   ```nltk.download('punkt')```
+   ```nltk.download('stopwords')```
 
 ## Acknowledgements:  
 Libraries used: numpy, sklearn, pandas, matplotlib, NLTK, wordcloud  
