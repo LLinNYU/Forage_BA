@@ -20,10 +20,10 @@ This simulation introduced me to web scraping and handling natural language task
 ## Installation
 1. Clone the repository: ```git clone https://github.com/LLinNYU/Forage_BA.git```
 2. Navigate to the dierctory: ```cd Forage_BA```
-3. Install dependencies:
-   ```pip install wordcloud nltk```
-   ```nltk.download('punkt')```
-   ```nltk.download('stopwords')```
+3. Install dependencies:  
+   ```pip install wordcloud nltk```  
+   ```nltk.download('punkt')```  
+   ```nltk.download('stopwords')```  
 
 ## Acknowledgements:  
 Libraries used: numpy, sklearn, pandas, matplotlib, NLTK, wordcloud  
