@@ -4,6 +4,6 @@ The Forage: British Airways is a job simulation that involves web scraping, anal
 This simulation introduced me to web scraping and natural language tasks and also gave me more hands-on practice with classification models. 
 The relevant python notebooks are Part_1_Data_Overview.ipynb and Part_2_Predictive_Model.ipynb.
 
-Acknowledgements:
-Libraries used: numpy, sklearn, pandas, matplotlib, NLTK, wordcloud
+Acknowledgements:  
+Libraries used: numpy, sklearn, pandas, matplotlib, NLTK, wordcloud  
 Other resources for learning about NLP: textblob, spacy, ChatGPT
