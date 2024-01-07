@@ -10,7 +10,8 @@ This project is one of the many job simulations available on Forage that allows 
 ## Overview
 The Forage: British Airways is a data science job simulation that involves web scraping, analyzing data, and creating a predictive model to answer realistic business questions such as "What topics are discussed in reviews for the service?" and "What are the factors considered in a customer's purchase?" for British Airways.  
 
-This simulation provided an interoduction to web scraping, handling natural language tasks, and binary classification models.
+This simulation provides an introduction to web scraping, handling natural language tasks, and binary classification models.  
+The reviews are scraped from Skytrax's review site: https://www.airlinequality.com/ .  
 
 ## Structure
 - data: folder containing the notebooks that processed the data and the relevant csv files  
