@@ -12,6 +12,8 @@ The Forage: British Airways is a data science job simulation that involves web s
 
 This simulation provides an introduction to web scraping, handling natural language tasks, and binary classification models.  
 The reviews are scraped from Skytrax's review site: https://www.airlinequality.com/ .  
+Part 1 focuses on isolating the verified reviews from the site, creating histograms for the basic statistics of the data, creating a wordcloud, forming n-grams for the reviews, and gauging customer's opinions on the services.  
+Part 2 uses RandomForestClassifier with the default parameters (uses gini criterion, no tree depth limit, 100 trees) and 5 folds for cross validation. The accuracy was about 0.85, recall was about 0.13, precision was about 0.50, F1 score was about 0.20. Overall, it captures 
 
 ## Structure
 - data: folder containing the notebooks that processed the data and the relevant csv files  
