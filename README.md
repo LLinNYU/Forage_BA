@@ -11,9 +11,9 @@ The Forage: British Airways is a data science job simulation that involves web s
 This simulation introduced me to web scraping and handling natural language tasks. This was also good practice with binary classification models.
 
 ## Structure
-- data - folder containing the notebooks that processed the data and the relevant csv files  
-- Part_1_Data_Overview.ipynb - the python notenook containing analysis of the scraped reviews data and their sentiments about their experience with British Airways
-- Part_2_Predictive_Model.ipynb - the python notebook containing the RandomForestClassifier model that predicts whether a customer decides to create a booking or not
+- data: folder containing the notebooks that processed the data and the relevant csv files  
+- Part_1_Data_Overview.ipynb: the python notenook containing analysis of the scraped reviews data and their sentiments about their experience with British Airways
+- Part_2_Predictive_Model.ipynb: the python notebook containing the RandomForestClassifier model that predicts whether a customer decides to create a booking or not
 
 ## Installation
 1. Clone the repository: 'git clone https://github.com/LLinNYU/Forage_BA.git'
