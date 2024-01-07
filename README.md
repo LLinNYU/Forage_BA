@@ -1,4 +1,4 @@
-### The Forage: British Airways  
+## The Forage: British Airways  
 The Forage: British Airways is a job simulation that involves web scraping, analyzing data, and creating a predictive model to answer realistic business questions such as "What about the company's services do customers mention and what are their critiques?" and "What are the factors considered in a customer's confirmation of a purchase?"  
 
 This simulation introduced me to web scraping and natural language tasks and also gave me more hands-on practice with classification models. 
