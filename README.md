@@ -16,7 +16,7 @@ This simulation introduced me to web scraping and handling natural language task
 - Part_2_Predictive_Model.ipynb: the python notebook containing the RandomForestClassifier model that predicts whether a customer decides to create a booking or not
 
 ## Installation
-1. Clone the repository: 'git clone https://github.com/LLinNYU/Forage_BA.git'
+1. Clone the repository: ```git clone https://github.com/LLinNYU/Forage_BA.git```
 2. Navigate to the dierctory: 'cd Forage_BA'
 3. Install dependencies:
    pip install wordcloud
