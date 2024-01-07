@@ -1,9 +1,9 @@
 # The Forage: British Airways  
 This project is one of the many job simulations available on Forage that allows students to experience what it's like working at certain companies.
 
-## Table of Contents
-- [Overview](#Overview)
-- [Structure](#Structure)
+## Table of Contents  
+[Overview](#Overview)  
+[Structure](#Structure)
 
 
 ## Overview
